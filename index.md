@@ -18,8 +18,11 @@ layout: course-single
 After the completion of the course, the student will be able to:
 
 A8207.1 Apply the basic laws of electrical circuits to study the operation of DC machines and Single-Phase Transformers.
+
 A8207.2 Analyze the characteristics of DC machines and Single-Phase Transformers.
+
 A8207.3 Analyze the different speed control techniques adopted for DC motors.
+
 A8207.4 Categorize the different tests conducted on DC Machines and Transformers.
 
 # <a name="syllabus">Syllabus</a>
